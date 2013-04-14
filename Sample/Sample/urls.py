@@ -18,4 +18,5 @@ urlpatterns = patterns('',
     # add something to commit for third step
     # add something to commit for forth step
     # add something to change for fifth step by another person
+    # add something to change for eighth step by another person
 )
